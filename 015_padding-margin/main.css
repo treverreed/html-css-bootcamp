@@ -1,0 +1,26 @@
+div {
+  width: 100px;
+  height: 100px;
+  border: 1px solid red;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+img {
+  border: 10px groove orangered;
+  border-radius: 100%;
+  padding: 30px;
+  margin: 40px;
+  height: 500px;
+  width: 500px;
+}
+.oneimg {
+  border: 10px dashed orangered;
+  height: 500px;
+  width: 500px;
+}
+.twoimg {
+  border: 10px dotted orangered;
+  height: 500px;
+  width: 500px;
+}
